@@ -2,7 +2,7 @@
  * An easy C style thread pool implement.
  * Copyright FreeCode. All Rights Reserved.
  * MIT License (https://opensource.org/licenses/MIT)
- * 2024 by lingqingshuige
+ * 2024 by liuqingshuige
  */
 #include <stdio.h>
 #include <stdlib.h>
